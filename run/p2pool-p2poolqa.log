@@ -1,0 +1,119 @@
+[0;36m2024-10-18 03:23:05.8600[0m [0;90mLog [0mstarted[0m
+[0;36m2024-10-18 03:23:05.8675[0m [0;90mP2Pool [0m[0;96mv4.1.1 (built with GCC/12.2.0 on Oct 14 2024)[0m
+[0;36m2024-10-18 03:23:05.8677[0m [0;90mUtil [0mUPnP: Started scanning for UPnP IGD devices[0m
+[0;36m2024-10-18 03:23:05.8679[0m [0;90mSideChain [0m[0;96mnetwork type  = mainnet[0m
+[0;36m2024-10-18 03:23:05.8679[0m [0;90mSideChain [0musing default config[0m
+[0;36m2024-10-18 03:23:05.8681[0m [0;90mSideChain [0m[0;96mpool name     = mini[0m
+[0;36m2024-10-18 03:23:05.8681[0m [0;90mSideChain [0m[0;96mblock time    = 10 seconds[0m
+[0;36m2024-10-18 03:23:05.8681[0m [0;90mSideChain [0m[0;96mmin diff      = 100000[0m
+[0;36m2024-10-18 03:23:05.8681[0m [0;90mSideChain [0m[0;96mPPLNS window  = 2160 blocks[0m
+[0;36m2024-10-18 03:23:05.8681[0m [0;90mSideChain [0m[0;96muncle penalty = 20%[0m
+[0;36m2024-10-18 03:23:05.8681[0m [0;90mSideChain [0mgenerating consensus ID[0m
+[0;36m2024-10-18 03:23:05.8681[0m [0;90mSideChain [0mconsensus ID = [0;96m3982c91a************************************************35187ec4[0m
+[0;36m2024-10-18 03:23:05.8694[0m [0;90mRandomX_Hasher [0mallocated 2592 MB[0m
+[0;36m2024-10-18 03:23:05.8716[0m [0;90mTCPServer [0mlistening on [0;90m127.0.0.1:63435[0m
+[0;36m2024-10-18 03:23:05.8716[0m [0;90mConsoleCommands [0mevent loop started[0m
+[0;36m2024-10-18 03:23:06.0991[0m [0;90mRandomX_Hasher [0mnew seed [0;94mbb5bf0d0f2c6e288c3067b5e7bf319cc5bbdeec72f5ed08833d3006b57b51031[0m
+[0;36m2024-10-18 03:23:06.0995[0m [0;90mP2Pool [0m192.168.0.176:20081:ZMQ:20083 ping is 2.815 ms[0m
+[0;36m2024-10-18 03:23:06.1109[0m [0;90mRandomX_Hasher [0mold seed [0;94m035052ca55edd917dec0ca54e05c65d11fd2c9920301ce8785f710998a7a360b[0m
+[0;36m2024-10-18 03:23:06.4402[0m [0;90mRandomX_Hasher [0m[0;96mcache updated[0m
+[0;36m2024-10-18 03:23:06.4403[0m [0;90mRandomX_Hasher [0m[0;96mrunning 4 threads to update dataset[0m
+[0;36m2024-10-18 03:23:06.7850[0m [0;90mRandomX_Hasher [0m[0;96mold cache updated[0m
+[0;36m2024-10-18 03:23:06.8254[0m [0;90mTCPServer [0mlistening on [0;90m0.0.0.0:3334[0m
+[0;36m2024-10-18 03:23:06.8255[0m [0;90mStratumServer [0mevent loop started[0m
+[0;36m2024-10-18 03:23:06.8277[0m [0;90mBlockCache [0mloading cached blocks[0m
+[0;36m2024-10-18 03:23:06.9441[0m [0;90mBlockCache [0mloaded 0 cached blocks[0m
+[0;36m2024-10-18 03:23:07.7299[0m [0;90mTCPServer [0mlistening on [0;90m0.0.0.0:38889[0m
+[0;36m2024-10-18 03:23:07.7299[0m [0;90mUtil [0mUPnP: trying to map WAN:38889 to LAN:38889[0m
+[0;36m2024-10-18 03:23:09.8714[0m [0;90mUtil [0mUPnP: Finished scanning for UPnP IGD devices[0m
+[0;36m2024-10-18 03:23:09.8716[0m [0;90mP2PServer [0mevent loop started[0m
+[0;36m2024-10-18 03:23:09.8782[0m [0;90mZMQReader [0mconnected to tcp://127.0.0.1:63720[0m
+[0;36m2024-10-18 03:23:09.8821[0m [0;90mZMQReader [0mconnected to tcp://192.168.0.176:20083[0m
+[0;36m2024-10-18 03:23:09.8824[0m [0;90mZMQReader [0mworker thread ready[0m
+[0;36m2024-10-18 03:23:09.8824[0m [0;90mZMQReader [0mmonitor thread ready[0m
+[0;36m2024-10-18 03:23:09.9007[0m [0;90mP2Pool [0m192.168.0.176:20081:ZMQ:20083 ping is 4.722 ms[0m
+[0;36m2024-10-18 03:23:15.4995[0m [0;90mRandomX_Hasher [0m[0;96mdataset updated[0m
+[0;36m2024-10-18 03:23:42.0898[0m [0;90mSideChain [0m[0;92madd_external_block: block a5ba20aa6c94eabc78cca6b6327c192b795f3723b8c3521319df327df6b6963d has enough PoW for Monero height 3261344, submitting it[0m
+[0;36m2024-10-18 03:23:42.0901[0m [0;90mP2Pool [0m[0;92msubmit_block: height = 3261478, external blob (23800 bytes)[0m
+[0;36m2024-10-18 03:24:08.0045[0m [0;90mSideChain [0m[0;96mSYNCHRONIZED[0m
+[0;36m2024-10-18 05:11:15.8628[0m [0;90mLog [0mstarted[0m
+[0;36m2024-10-18 05:11:15.8656[0m [0;90mP2Pool [0m[0;96mv4.1.1 (built with GCC/12.2.0 on Oct 12 2024)[0m
+[0;36m2024-10-18 05:11:15.8666[0m [0;90mSideChain [0m[0;96mnetwork type  = mainnet[0m
+[0;36m2024-10-18 05:11:15.8666[0m [0;90mSideChain [0musing default config[0m
+[0;36m2024-10-18 05:11:15.8666[0m [0;90mSideChain [0m[0;96mpool name     = mini[0m
+[0;36m2024-10-18 05:11:15.8666[0m [0;90mSideChain [0m[0;96mblock time    = 10 seconds[0m
+[0;36m2024-10-18 05:11:15.8666[0m [0;90mSideChain [0m[0;96mmin diff      = 100000[0m
+[0;36m2024-10-18 05:11:15.8666[0m [0;90mSideChain [0m[0;96mPPLNS window  = 2160 blocks[0m
+[0;36m2024-10-18 05:11:15.8666[0m [0;90mSideChain [0m[0;96muncle penalty = 20%[0m
+[0;36m2024-10-18 05:11:15.8666[0m [0;90mSideChain [0mgenerating consensus ID[0m
+[0;36m2024-10-18 05:11:15.8666[0m [0;90mSideChain [0mconsensus ID = [0;96m3982c91a************************************************35187ec4[0m
+[0;36m2024-10-18 05:11:15.8667[0m [0;90mUtil [0mUPnP: Started scanning for UPnP IGD devices[0m
+[0;36m2024-10-18 05:11:15.9289[0m [0;90mRandomX_Hasher [0mallocated 2592 MB[0m
+[0;36m2024-10-18 05:11:15.9303[0m [0;90mTCPServer [0mlistening on [0;90m127.0.0.1:51945[0m
+[0;36m2024-10-18 05:11:15.9438[0m [0;90mRandomX_Hasher [0mnew seed [0;94mbb5bf0d0f2c6e288c3067b5e7bf319cc5bbdeec72f5ed08833d3006b57b51031[0m
+[0;36m2024-10-18 05:11:15.9556[0m [0;90mP2Pool [0m192.168.0.176:20081:ZMQ:20083 ping is 0.658 ms[0m
+[0;36m2024-10-18 05:11:15.9799[0m [0;90mRandomX_Hasher [0mold seed [0;94m035052ca55edd917dec0ca54e05c65d11fd2c9920301ce8785f710998a7a360b[0m
+[0;36m2024-10-18 05:11:15.9876[0m [0;90mConsoleCommands [0mevent loop started[0m
+[0;36m2024-10-18 05:11:16.8621[0m [0;90mRandomX_Hasher [0m[0;96mcache updated[0m
+[0;36m2024-10-18 05:11:16.8627[0m [0;90mRandomX_Hasher [0m[0;96mrunning 2 threads to update dataset[0m
+[0;36m2024-10-18 05:11:17.7266[0m [0;90mRandomX_Hasher [0m[0;96mold cache updated[0m
+[0;36m2024-10-18 05:11:17.7326[0m [0;90mTCPServer [0mlistening on [0;90m0.0.0.0:3335[0m
+[0;36m2024-10-18 05:11:17.7376[0m [0;90mStratumServer [0mevent loop started[0m
+[0;36m2024-10-18 05:11:17.7411[0m [0;90mBlockCache [0mloading cached blocks[0m
+[0;36m2024-10-18 05:11:18.0195[0m [0;90mBlockCache [0mloaded 0 cached blocks[0m
+[0;36m2024-10-18 05:11:18.3195[0m [0;90mTCPServer [0mlistening on [0;90m0.0.0.0:38890[0m
+[0;36m2024-10-18 05:11:18.3195[0m [0;90mUtil [0mUPnP: trying to map WAN:38890 to LAN:38890[0m
+[0;36m2024-10-18 05:11:19.8736[0m [0;90mUtil [0mUPnP: Finished scanning for UPnP IGD devices[0m
+[0;36m2024-10-18 05:11:19.8775[0m [0;90mP2PServer [0mevent loop started[0m
+[0;36m2024-10-18 05:11:19.9042[0m [0;90mZMQReader [0mconnected to tcp://127.0.0.1:54308[0m
+[0;36m2024-10-18 05:11:19.9062[0m [0;90mZMQReader [0mconnected to tcp://192.168.0.176:20083[0m
+[0;36m2024-10-18 05:11:19.9185[0m [0;90mP2Pool [0m192.168.0.176:20081:ZMQ:20083 ping is 0.717 ms[0m
+[0;36m2024-10-18 05:11:19.9196[0m [0;90mZMQReader [0mworker thread ready[0m
+[0;36m2024-10-18 05:11:19.9196[0m [0;90mZMQReader [0mmonitor thread ready[0m
+[0;36m2024-10-18 05:16:07.4622[0m [0;90mLog [0mstarted[0m
+[0;36m2024-10-18 05:16:07.4646[0m [0;90mP2Pool [0m[0;96mv4.1.1 (built with GCC/12.2.0 on Oct 12 2024)[0m
+[0;36m2024-10-18 05:16:07.4649[0m [0;90mUtil [0mUPnP: Started scanning for UPnP IGD devices[0m
+[0;36m2024-10-18 05:16:07.4651[0m [0;90mSideChain [0m[0;96mnetwork type  = mainnet[0m
+[0;36m2024-10-18 05:16:07.4651[0m [0;90mSideChain [0musing default config[0m
+[0;36m2024-10-18 05:16:07.4651[0m [0;90mSideChain [0m[0;96mpool name     = mini[0m
+[0;36m2024-10-18 05:16:07.4651[0m [0;90mSideChain [0m[0;96mblock time    = 10 seconds[0m
+[0;36m2024-10-18 05:16:07.4651[0m [0;90mSideChain [0m[0;96mmin diff      = 100000[0m
+[0;36m2024-10-18 05:16:07.4651[0m [0;90mSideChain [0m[0;96mPPLNS window  = 2160 blocks[0m
+[0;36m2024-10-18 05:16:07.4651[0m [0;90mSideChain [0m[0;96muncle penalty = 20%[0m
+[0;36m2024-10-18 05:16:07.4651[0m [0;90mSideChain [0mgenerating consensus ID[0m
+[0;36m2024-10-18 05:16:07.4651[0m [0;90mSideChain [0mconsensus ID = [0;96m3982c91a************************************************35187ec4[0m
+[0;36m2024-10-18 05:16:07.5246[0m [0;90mRandomX_Hasher [0mallocated 2592 MB[0m
+[0;36m2024-10-18 05:16:07.5256[0m [0;90mTCPServer [0mlistening on [0;90m127.0.0.1:50266[0m
+[0;36m2024-10-18 05:16:07.5264[0m [0;90mConsoleCommands [0mevent loop started[0m
+[0;36m2024-10-18 05:16:07.5327[0m [0;90mP2Pool [0m192.168.0.176:20081:ZMQ:20083 ping is 0.117 ms[0m
+[0;36m2024-10-18 05:16:07.5334[0m [0;90mRandomX_Hasher [0mnew seed [0;94mbb5bf0d0f2c6e288c3067b5e7bf319cc5bbdeec72f5ed08833d3006b57b51031[0m
+[0;36m2024-10-18 05:16:07.5393[0m [0;90mRandomX_Hasher [0mold seed [0;94m035052ca55edd917dec0ca54e05c65d11fd2c9920301ce8785f710998a7a360b[0m
+[0;36m2024-10-18 05:16:08.4155[0m [0;90mRandomX_Hasher [0m[0;96mcache updated[0m
+[0;36m2024-10-18 05:16:08.4157[0m [0;90mRandomX_Hasher [0m[0;96mrunning 2 threads to update dataset[0m
+[0;36m2024-10-18 05:16:09.2772[0m [0;90mRandomX_Hasher [0m[0;96mold cache updated[0m
+[0;36m2024-10-18 05:16:09.2830[0m [0;90mTCPServer [0mlistening on [0;90m0.0.0.0:3335[0m
+[0;36m2024-10-18 05:16:09.2840[0m [0;90mBlockCache [0mloading cached blocks[0m
+[0;36m2024-10-18 05:16:09.2955[0m [0;90mStratumServer [0mevent loop started[0m
+[0;36m2024-10-18 05:16:09.4195[0m [0;90mBlockCache [0mloaded 0 cached blocks[0m
+[0;36m2024-10-18 05:16:10.2705[0m [0;90mTCPServer [0mlistening on [0;90m0.0.0.0:38890[0m
+[0;36m2024-10-18 05:16:10.2705[0m [0;90mUtil [0mUPnP: trying to map WAN:38890 to LAN:38890[0m
+[0;36m2024-10-18 05:16:11.4730[0m [0;90mUtil [0mUPnP: Finished scanning for UPnP IGD devices[0m
+[0;36m2024-10-18 05:16:11.4745[0m [0;90mZMQReader [0mconnected to tcp://127.0.0.1:55408[0m
+[0;36m2024-10-18 05:16:11.4748[0m [0;90mP2PServer [0mevent loop started[0m
+[0;36m2024-10-18 05:16:11.4750[0m [0;90mZMQReader [0mconnected to tcp://192.168.0.176:20083[0m
+[0;36m2024-10-18 05:16:11.4753[0m [0;90mZMQReader [0mworker thread ready[0m
+[0;36m2024-10-18 05:16:11.4753[0m [0;90mZMQReader [0mstopping[0m
+[0;36m2024-10-18 05:16:11.4837[0m [0;90mZMQReader [0mmonitor thread ready[0m
+[0;36m2024-10-18 05:16:11.4837[0m [0;90mZMQReader [0mmonitor thread stopped[0m
+[0;36m2024-10-18 05:16:20.3926[0m [0;90mZMQReader [0mworker thread stopped[0m
+[0;36m2024-10-18 05:16:20.3927[0m [0;90mZMQReader [0mstopped[0m
+[0;36m2024-10-18 05:16:20.3971[0m [0;90mZMQReader [0mconnected to tcp://127.0.0.1:55751[0m
+[0;36m2024-10-18 05:16:20.3975[0m [0;90mZMQReader [0mconnected to tcp://192.168.0.176:20083[0m
+[0;36m2024-10-18 05:16:20.3976[0m [0;90mZMQReader [0mworker thread ready[0m
+[0;36m2024-10-18 05:16:20.3997[0m [0;90mZMQReader [0mmonitor thread ready[0m
+[0;36m2024-10-18 05:16:29.9955[0m [0;90mSideChain [0m[0;92madd_external_block: block 36c7b6f2d1cf1cb375dbb1525acd13abd83fb4d21da68018fb2bec1eaf900254 has enough PoW for Monero height 3261501, submitting it[0m
+[0;36m2024-10-18 05:16:29.9967[0m [0;90mP2Pool [0m[0;92msubmit_block: height = 3261532, external blob (23908 bytes)[0m
+[0;36m2024-10-18 05:16:30.3300[0m [0;90mRandomX_Hasher [0m[0;96mdataset updated[0m
+[0;36m2024-10-18 05:17:06.5544[0m [0;90mSideChain [0m[0;92madd_external_block: block a5ba20aa6c94eabc78cca6b6327c192b795f3723b8c3521319df327df6b6963d has enough PoW for Monero height 3261344, submitting it[0m
+[0;36m2024-10-18 05:17:06.5552[0m [0;90mP2Pool [0m[0;92msubmit_block: height = 3261533, external blob (23800 bytes)[0m
+[0;36m2024-10-18 05:17:34.5239[0m [0;90mSideChain [0m[0;96mSYNCHRONIZED[0m
